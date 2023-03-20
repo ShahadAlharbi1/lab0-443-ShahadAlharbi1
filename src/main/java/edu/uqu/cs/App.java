@@ -3,7 +3,6 @@ package edu.uqu.cs;
  * Lab 0 
  * CS 1312
  */
-
 /*
 * Make sure to complete and submit your lab
 */
