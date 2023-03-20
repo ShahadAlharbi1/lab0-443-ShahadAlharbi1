@@ -27,7 +27,7 @@ public class App{
 
 
  public static void twisters(){
-    for (int i=1;i<20;i++)
+    for (int i=1;i<=20;i++){
     if (i%2==0||i%4==0||i%6==0){
     if (i%2==0)
     {
@@ -134,4 +134,5 @@ public static void phoneKeypad(String str)
         
     }
     System.out.print(output);
+}
 }
